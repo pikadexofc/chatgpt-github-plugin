@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "GitHub Connector",
+  "name_for_model": "github_connector",
+  "description_for_human": "Search GitHub repositories and inspect issues, pull requests, and file contents.",
+  "description_for_model": "Use this plugin to search GitHub repositories, get repository metadata, view issues, review pull requests, and read file contents from GitHub.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://your-domain.example.com/openapi.yaml"
+  },
+  "logo_url": "https://your-domain.example.com/logo.png",
+  "contact_email": "support@example.com",
+  "legal_info_url": "https://your-domain.example.com/legal"
+}
